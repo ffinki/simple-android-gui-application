@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity Lifecycle And Simple GUI</string>
+    <string name="primary_activity_starter_button">Start</string>
+    <string name="secondary_activity_starter_button">Start</string>
+    <string name="secondary_activity_permit_button">Permit</string>
+    <string name="secondary_activity_insert_button">Insert</string>
+</resources>
